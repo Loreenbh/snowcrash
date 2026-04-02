@@ -1,6 +1,6 @@
 # Level12 - Command Injection in SUID Perl CGI
 
-## Descrption
+## Description
 
 A Perl script `level12.pl` runs as `flag12` through a local web service on `localhost:4646`.
 Inspecting the code revealed that user input from the parameter `x` is used in the following command:
