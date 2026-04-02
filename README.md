@@ -40,7 +40,6 @@ Each write-up contains:
 
 ## Resources / Proofs
 - Screenshots and outputs for each level are stored in the `images/` folder.
-- Scripts used for decoding or automation can be found in the `resources/` folder of each level.
 
 ## Source Code
 - This repository focuses on write-ups and documentation.
